@@ -1,10 +1,10 @@
-import Staffmemberimg from 'C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/welcome.jpg';
-import EM from 'C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/EM.jpg';
-import AT from 'C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/AT.jpg';
-import MM from 'C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/MM.jpg';
-import R from 'C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/R.jpg';
-import E from 'C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/E.jpg';
-import S from 'C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/S.jpg';
+import Staffmemberimg from 'C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/welcome.jpg';
+import EM from 'C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/EM.jpg';
+import AT from 'C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/AT.jpg';
+import MM from 'C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/MM.jpg';
+import R from 'C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/R.jpg';
+import E from 'C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/E.jpg';
+import S from 'C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/S.jpg';
 import React, { useRef } from 'react';
 import emailjs from '@emailjs/browser';
 import Footer from './Footer';

@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/logo.png"; // Import the logo
+import logo from "C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/logo.png"; // Import the logo
 
 function Header() {
     return React.createElement(

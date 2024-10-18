@@ -5,7 +5,7 @@ import Swal from 'sweetalert2';
 import Footer from './Footer';
 import jsPDF from 'jspdf';
 import 'jspdf-autotable';
-import back from "C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/SDback.jpg";
+import back from "C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/SDback.jpg";
 import Header from './Header';
 
 function SalaryDetails() {

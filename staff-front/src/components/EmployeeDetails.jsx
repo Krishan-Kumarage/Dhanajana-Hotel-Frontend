@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Modal } from 'react-bootstrap';
 import Swal from 'sweetalert2';
 import Footer from './Footer';
-import back from "C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/backstaff.jpg"; 
+import back from "C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/backstaff.jpg"; 
 import { FaSearch, FaTimes } from 'react-icons/fa';
 import Header from './Header';
 

@@ -5,7 +5,7 @@ import TasksCards4 from '../../src/common-components/TaskCards4';
 import TasksCards5 from '../../src/common-components/TaskCards5';
 import TasksCards6 from '../../src/common-components/TaskCards6';
 import TasksCards7 from '../../src/common-components/TaskCards7';
-import empDashboardimg from 'C:/Users/rashm/OneDrive/Desktop/staff management/staff-front/src/assets/empDashboardimg.jpg';
+import empDashboardimg from 'C:/Users/rashm/OneDrive/Desktop/Dhanajana-Hotel-Frontend/staff-front/src/assets/empDashboardimg.jpg';
 import Footer from './Footer';
 import EmpDashHeader from './EmpDashHeader';
 
